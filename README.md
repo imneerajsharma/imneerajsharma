@@ -21,8 +21,8 @@ Shoot me an email and add me on linkedIn
 
 
 ## 🌐 Socials:
-[<img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://linkedin.com/in/https://linkedin.com/in/neeraj-kr-sharma/)
-
+[<img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://linkedin.com/in/neeraj-kr-sharma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neeraj-kr-sharma/)
 
 
 
@@ -48,7 +48,7 @@ Shoot me an email and add me on linkedIn
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 
----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imneerajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
