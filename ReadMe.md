@@ -31,7 +31,7 @@ Shoot me an email and add me on linkedIn
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 <img align="left" alt="Putty" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imneerajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
