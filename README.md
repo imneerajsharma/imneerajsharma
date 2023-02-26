@@ -46,9 +46,8 @@ Shoot me an email and add me on linkedIn
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 
-### :
-# Tech Stack:
-# 💻 Tech Stack:
+
+# :
 
 
 # 📊 GitHub Stats:
